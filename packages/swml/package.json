@@ -1,0 +1,13 @@
+﻿{
+    "version":  "0.1.0",
+    "license":  "Apache-2.0",
+    "types":  "dist/index.d.ts",
+    "name":  "swml",
+    "description":  "SWML-Powered Agent Orchestrator",
+    "author":  "Shunsuke Hayashi",
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/ShunsukeHayashi/swml.git"
+                   },
+    "main":  "dist/index.js"
+}
